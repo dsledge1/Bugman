@@ -1,2 +1,2 @@
 # Bugman
-Bugman OpenClaw project
+Bugman project
