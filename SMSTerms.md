@@ -1,4 +1,6 @@
 #SMS Terms and Conditions
+---
+
 Effective July 23, 2026
 
 This service provides conversational household calendar assistance and related notifications by SMS. Message frequency varies according to user requests and scheduled notifications. Message and data rates may apply.
