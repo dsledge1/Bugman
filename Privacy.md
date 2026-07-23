@@ -1,4 +1,4 @@
-#Privacy Policy
+Privacy Policy
 ---
 
 Effective July 23, 2026
