@@ -1,4 +1,4 @@
-#SMS Terms and Conditions
+SMS Terms and Conditions
 ---
 
 Effective July 23, 2026
